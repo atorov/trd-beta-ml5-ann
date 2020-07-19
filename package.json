@@ -16,10 +16,10 @@
     },
     "homepage": "https://github.com/atorov/trd-beta-ml5-ann#readme",
     "devDependencies": {
-        "eslint": "^6.7.2",
-        "eslint-config-airbnb-base": "^14.1.0",
-        "eslint-plugin-import": "^2.18.2",
-        "reload": "^3.0.3"
+        "eslint": "^7.5.0",
+        "eslint-config-airbnb-base": "^14.2.0",
+        "eslint-plugin-import": "^2.22.0",
+        "reload": "^3.1.0"
     },
     "dependencies": {
         "technicalindicators": "^3.0.0"
